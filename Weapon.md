@@ -43,16 +43,25 @@
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
-貫穿 | IV | 
-耐久  |III | 
-快速上弦 | III | 
+貫穿 | IV | piercing
+耐久 | III | unbreaking
+快速上弦 | III | quick_charge
+
+|指令|
+|:---:|
+`/give @s crossbow{Enchantments:[{id:mending,lvl:1},{id:piercing,lvl:4},{id:unbreaking,lvl:3},{id:quick_charge,lvl:3}]} 1`
 
 ### 分裂弩
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
-耐久
-分裂箭矢 piercing
+耐久 | III | unbreaking
+分裂箭矢 | I | multishot
+快速上弦 | III | quick_charge
+
+|指令|
+|:---:|
+`/give @s crossbow{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:multishot,lvl:1},{id:quick_charge,lvl:3}]} 1`
 
 # 三叉戟Trident
 ### 喚雷戟
