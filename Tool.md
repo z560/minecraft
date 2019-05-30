@@ -16,31 +16,22 @@
 幸運 | III | fortune
 耐久 | III | unbreaking
 
-* 幸運鑽石鎬  
-```java
-/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1
-```
-* 幸運鐵鎬  
-```java
-/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1
-```
-* 幸運石鎬
-```java
-/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1
-```
-* 幸運金鎬  
-```java
-/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1
-```
-* 幸運木鎬  
-```java
-/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1
-```
+* 鑽石  
+`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+* 鐵製  
+`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+* 石製  
+`/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+* 金製  
+`/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+* 木製  
+`/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+
 ### 絲綢鎬
 附魔|等級|英文
 :---:|:---:|:---:
