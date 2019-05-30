@@ -50,23 +50,28 @@ ver1.14
 耐久 | III | unbreaking
 * 幸運鑽石鎬  
 ```java
-/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
+/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
 ```
 * 幸運鐵鎬  
 ```java
-/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
+/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
 ```
 * 幸運石鎬
 ```java
-/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
+/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
 ```
 * 幸運金鎬  
 ```java
-/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
+/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
 ```
 * 幸運木鎬  
 ```java
-/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
+/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1
 ```
 ### 絲綢鎬
 附魔|等級|英文
@@ -77,21 +82,26 @@ ver1.14
 絲綢之觸 | I | silk_touch
 * 絲綢鑽石鎬  
 ```java
-/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
+/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
 ```
 * 絲綢鐵鎬  
 ```java
-/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
+/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
 ```
 * 絲綢石鎬  
 ```java
-/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
+/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
 ```
 * 絲綢金鎬  
 ```java
-/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
+/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
 ```
 * 絲綢木鎬  
 ```java
-/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
+/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1
 ```
