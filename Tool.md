@@ -36,7 +36,7 @@
 :---:|:---:
 鑽石|`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
 鐵製|`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-|||
+|石頭
 `/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
 黃金
 `/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
