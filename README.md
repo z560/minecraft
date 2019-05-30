@@ -7,6 +7,7 @@ ver1.14
  [絲綢鏟](README.md#絲綢鏟)  
  [幸運斧](README.md#幸運斧)  
  [絲綢斧](README.md#絲綢斧)  
+ [鋤](README.md#鋤Hoe)  
  
 # 劍	Sword
 附魔|等級|英文
