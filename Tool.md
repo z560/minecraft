@@ -146,11 +146,10 @@
 :---:|:---:
 鑽石|`/give @s diamond_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
 鐵製|`/give @s iron_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
-|石頭
-`/give @s stone_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
-* 金製  
+石頭|`/give @s stone_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+黃金
 `/give @s golden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
-* 木製  
+木頭|  
 `/give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
 
 # 剪刀Shears
@@ -160,6 +159,8 @@
 效率 | V | efficiency
 耐久 | III | unbreaking
 
+|指令|
+|:---:|
 `/give @s shears{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]} 1 `
 
 # 釣竿Fishing Rod
@@ -169,6 +170,7 @@
 耐久 | III | unbreaking
 魚餌 | III | lure
 海洋的祝福 | III | luck_of_the_sea
+
 |指令|
 |:---:|
 `/give @s shears{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3}]} 1 `
