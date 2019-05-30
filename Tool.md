@@ -7,7 +7,7 @@
  [釣竿](Tool.md#釣竿FishingRod)   
  [Give Tool Generator](https://www.digminecraft.com/generators/give_tool.php)
  
-# 鎬 Pickaxe
+# 鎬Pickaxe
 ### 幸運鎬
 附魔|等級|英文
 :---:|:---:|:---:
@@ -75,7 +75,7 @@
 {id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 
-# 鏟 Shovel
+# 鏟Shovel
 ### 幸運鏟
 附魔|等級|英文
 :---:|:---:|:---:
@@ -143,7 +143,7 @@
 {id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 
-# 斧 Axe
+# 斧Axe
 ### 幸運斧
 附魔|等級|英文
 :---:|:---:|:---:
@@ -239,7 +239,7 @@
 /give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
 ```
 
-# 剪刀 Shears
+# 剪刀Shears
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
@@ -251,7 +251,7 @@
 /give @s shears{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]} 1
 ```
 
-# 釣竿 Fishing Rod
+# 釣竿Fishing Rod
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
