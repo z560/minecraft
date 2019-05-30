@@ -46,3 +46,9 @@
 /give @p leather_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},
 {id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1
 ```
+
+* 海龜殼  
+```java
+/give @p turtle_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},
+{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1
+```
