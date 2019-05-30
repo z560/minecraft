@@ -169,5 +169,6 @@
 耐久 | III | unbreaking
 魚餌 | III | lure
 海洋的祝福 | III | luck_of_the_sea
-
+|指令|
+|:---:|
 `/give @s shears{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3}]} 1 `
