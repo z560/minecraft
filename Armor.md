@@ -21,8 +21,6 @@
 |:---:|:---:|
 |鑽石| `/give @p diamond_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
 |鐵製| `/give @p iron_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|鑽石| `/give @p diamond_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|鐵製| `/give @p iron_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
 |鎖鏈| `/give @p chainmail_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
 |黃金| `/give @p golden_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
 |皮革| `/give @p leather_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
