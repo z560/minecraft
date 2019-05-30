@@ -1,4 +1,5 @@
-ver1.14
+ver1.14高級附魔
+
 # 目錄
 ### [武器Weapon](Weapon.md)  
  [劍](Weapon.md#劍Sword)、
