@@ -1,7 +1,7 @@
 ver1.14
 # 目錄
- [劍](README.md#劍)  
- [幸運鎬](README.md###幸運鎬)  
+ [劍](README.md#劍Sword)  
+ [幸運鎬](README.md#幸運鎬)  
 # 劍	Sword
 附魔|等級|英文
 :---:|:---:|:---:
