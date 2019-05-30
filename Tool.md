@@ -3,8 +3,8 @@
  [鏟](Tool.md#鏟Shovel)、
  [斧](Tool.md#斧Axe)、
  [鋤](Tool.md#鋤Hoe)、
- [剪刀](Tool.md#Shears)、
- [釣竿](Tool.md#釣竿FishingRod)   
+ [剪刀](Tool.md#剪刀Shears)、
+ [釣竿](Tool.md#釣竿fishing-rod)   
  [Give Tool Generator](https://www.digminecraft.com/generators/give_tool.php)
  
 # 鎬Pickaxe
