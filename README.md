@@ -15,15 +15,25 @@ ver1.14
 橫掃之刃 | III | sweeping
 
 * 鑽石劍  
-` /give @s diamond_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1 `
+``` java 
+/give @s diamond_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
 * 鐵劍  
-` /give @s iron_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1 `
+```java
+/give @s iron_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
 * 石劍  
-` /give @s stone_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1 `
+``` java
+/give @s stone_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
 * 金劍  
-` /give @s golden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1 `
+``` java
+/give @s golden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
 * 木劍  
-` /give @s wooden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1 `
+```java
+/give @s wooden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
 
 # 鎬 Pickaxe
 ### 幸運鎬
@@ -54,7 +64,7 @@ ver1.14
 ` /give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
 * 絲綢鐵鎬  
 ` /give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
-* 絲綢石鎬
+* 絲綢石鎬  
 ` /give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
 * 絲綢金鎬  
 ` /give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
