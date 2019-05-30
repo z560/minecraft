@@ -1,5 +1,5 @@
-ver1.14高級附魔
-
+ver1.14高級附魔  
+[Command Generators in Minecraft](https://www.digminecraft.com/generators/index.php)  
 # 目錄
 ### [武器Weapon](Weapon.md)  
  [劍](Weapon.md#劍Sword)、
