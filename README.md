@@ -2,6 +2,7 @@ ver1.14
 # 目錄
  [劍](README.md#劍Sword)  
  [幸運鎬](README.md#幸運鎬)  
+ [絲綢鎬](README.md#絲綢鎬)  
 # 劍	Sword
 附魔|等級|英文
 :---:|:---:|:---:
@@ -32,13 +33,30 @@ ver1.14
 效率 | V | efficiency
 幸運 | III | fortune
 耐久 | III | unbreaking
-* 鑽石鎬  
+* 幸運鑽石鎬  
 ` /give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1 `
-* 鐵鎬  
+* 幸運鐵鎬  
 ` /give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1 `
-* 石鎬
+* 幸運石鎬
 ` /give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1 `
-* 金鎬  
+* 幸運金鎬  
 ` /give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1 `
-* 木鎬  
+* 幸運木鎬  
 ` /give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3},]} 1 `
+### 絲綢鎬
+附魔|等級|英文
+:---:|:---:|:---:
+修補| I | mending
+效率 | V | efficiency
+耐久 | III | unbreaking
+絲綢之觸 | I | silk_touch
+* 絲綢鑽石鎬  
+` /give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
+* 絲綢鐵鎬  
+` /give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
+* 絲綢石鎬
+` /give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
+* 絲綢金鎬  
+` /give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
+* 絲綢木鎬  
+` /give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1},]} 1 `
