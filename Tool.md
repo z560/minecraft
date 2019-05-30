@@ -189,27 +189,27 @@
 * 絲綢鑽石斧  
 ```java
 /give @s diamond_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 * 絲綢鐵斧  
 ```java
 /give @s iron_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 * 絲綢石斧  
 ```java
 /give @s stone_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 * 絲綢金斧  
 ```java
 /give @s golden_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 * 絲綢木斧  
 ```java
 /give @s wooden_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
+{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1
 ```
 
 # 鋤Hoe
@@ -237,4 +237,30 @@
 * 木鋤  
 ```java
 /give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
+```
+
+# 剪刀 Shears
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+效率 | V | efficiency
+耐久 | III | unbreaking
+
+* 剪刀  
+```java
+/give @s shears{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]} 1
+```
+
+# 釣竿 Fishing Rod
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+耐久 | III | unbreaking
+魚餌 | III | lure
+海洋的祝福 | III | luck_of_the_sea
+
+* 釣竿  
+```java
+/give @s shears{Enchantments:[{id:mending,lvl:1},
+{id:unbreaking,lvl:3},{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3}]} 1
 ```
