@@ -19,12 +19,12 @@
 
 |材質|指令|
 |:---:|:---:|
-|鑽石| `/give @p diamond_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|鐵製| `/give @p iron_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|鎖鏈| `/give @p chainmail_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|黃金| `/give @p golden_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|皮革| `/give @p leather_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
-|海龜殼| `/give @p turtle_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 ` |
+鑽石|`/give @p diamond_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
+鐵製|`/give @p iron_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
+鎖鏈|`/give @p chainmail_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
+黃金|`/give @p golden_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
+皮革|`/give @p leather_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
+海龜殼|`/give @p turtle_helmet{Enchantments:[{id:mending,lvl:1},{id:aqua_affinity,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:respiration,lvl:3}]} 1 `
 
  # 胸甲Chestplates
 附魔|等級|英文
@@ -36,11 +36,11 @@
 
 |材質|指令|
 |:---:|:---:|
-|鑽石| ` /give @p diamond_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|鐵製| ` /give @p iron_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|鎖鏈| ` /give @p chainmail_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|黃金| ` /give @p golden_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|皮革| ` /give @p leather_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
+鑽石|` /give @p diamond_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+鐵製|` /give @p iron_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+鎖鏈|` /give @p chainmail_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+黃金|` /give @p golden_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+皮革|` /give @p leather_chestplate{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
 
 # 護腿Leggings
 附魔|等級|英文
@@ -52,12 +52,11 @@
 
 |材質|指令|
 |:---:|:---:|
-|鑽石| ` /give @p diamond_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|鐵製| `/give @p iron_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|鎖鏈| `/give @p chainmail_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|黃金| `/give @p golden_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-|皮革| `/give @p leather_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 ` |
-
+鑽石|` /give @p diamond_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+鐵製|`/give @p iron_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+鎖鏈|`/give @p chainmail_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+黃金|`/give @p golden_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
+皮革|`/give @p leather_leggings{Enchantments:[{id:mending,lvl:1},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3}]} 1 `
 
 # 靴子Boots
 ### 深海靴
@@ -72,11 +71,11 @@
 
 |材質|指令|
 |:---:|:---:|
-|鑽石| ` /give @p diamond_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 ` |
-|鐵製| ` /give @p iron_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 ` |
-|鎖鏈| ` /give @p chainmail_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 ` |
-|黃金| ` /give @p golden_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 ` |
-|皮革| ` /give @p leather_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 ` |
+鑽石|` /give @p diamond_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 `
+鐵製|` /give @p iron_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 `
+鎖鏈|` /give @p chainmail_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 `
+黃金|` /give @p golden_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 `
+皮革|` /give @p leather_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:depth_strider,lvl:3}]} 1 `
 
 
 ### 冰霜靴
@@ -91,11 +90,11 @@
 
 |材質|指令|
 |:---:|:---:|
-|鑽石| ` /give @p diamond_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 ` |
-|鐵製| ` /give @p iron_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 ` |
-|鎖鏈| ` /give @p chainmail_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 ` |
-|黃金| ` /give @p golden_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 ` |
-|皮革| ` /give @p leather_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 ` |
+鑽石|` /give @p diamond_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 `
+鐵製|` /give @p iron_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 `
+鎖鏈|` /give @p chainmail_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 `
+黃金|` /give @p golden_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 `
+皮革|` /give @p leather_boots{Enchantments:[{id:mending,lvl:1},{id:feather_falling,lvl:4},{id:protection,lvl:4},{id:unbreaking,lvl:3},{id:thorns,lvl:3},{id:frost_walker,lvl:2}]} 1 `
 
 
 # 盾牌Shield
@@ -106,7 +105,7 @@
 
 |指令|
 |:---:|
-| `/give @p shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]} 1 ` |
+`/give @p shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]} 1 `
 
 # 鞘翅Elytra
 附魔|等級|英文
@@ -116,4 +115,4 @@
 
 |指令|
 |:---:|
-|` /give @p elytra{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]} 1 ` |
+` /give @p elytra{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]} 1 `
