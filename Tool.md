@@ -16,21 +16,13 @@
 幸運 | III | fortune
 耐久 | III | unbreaking
 
-* 鑽石  
-`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 鐵製  
-`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 石製  
-`/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 金製  
-`/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 木製  
-`/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+材質|指令
+:---:|:---:
+鑽石|`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+鐵製|`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+石頭|`/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+黃金|`/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+木頭|`/give @s wooden_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
 
 ### 絲綢鎬
 附魔|等級|英文
@@ -40,16 +32,13 @@
 耐久 | III | unbreaking
 絲綢之觸 | I | silk_touch
 
-* 鑽石  
-`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 鐵製  
-`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 石製  
-`/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 金製  
+材質|指令
+:---:|:---:
+鑽石|`/give @s diamond_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+鐵製|`/give @s iron_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+|||
+`/give @s stone_pickaxe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+黃金
 `/give @s golden_pickaxe{Enchantments:[{id:mending,lvl:1},
 {id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
 * 木製  
