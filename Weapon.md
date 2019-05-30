@@ -16,31 +16,14 @@
 耐久 | III | unbreaking
 橫掃之刃 | III | sweeping
 
-* 鑽石劍  
-```java
-/give @s diamond_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},
-{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
-```
-* 鐵劍  
-```java
-/give @s iron_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},
-{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
-```
-* 石劍  
-```java
-/give @s stone_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},
-{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
-```
-* 金劍  
-```java
-/give @s golden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},
-{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
-```
-* 木劍  
-```java
-/give @s wooden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},
-{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1
-```
+材質|指令
+:---:|:---:
+鑽石|`/give @s diamond_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+鐵製|`/give @s iron_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+石頭|`/give @s stone_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+黃金|`/give @s golden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+木頭|`/give @s wooden_sword{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+
 
 # 弓Bow
 附魔|等級|英文
@@ -51,8 +34,48 @@
 衝擊 | II | punch
 耐久 | III | unbreaking
 
-* 弓  
-```java
-/give @s bow{Enchantments:[{id:mending,lvl:1},{id:flame,lvl:1}
-,{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]} 1
-```
+|指令|
+|:---:|
+`/give @s bow{Enchantments:[{id:mending,lvl:1},{id:flame,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]} 1`
+
+# 弩Crossbow
+### 貫穿弩
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+貫穿 | IV | 
+耐久  |III | 
+快速上弦 | III | 
+
+### 分裂弩
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+耐久
+分裂箭矢 piercing
+
+# 三叉戟Trident
+### 喚雷戟
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+喚雷 | I | channeling
+魚叉 | V | impaling
+忠誠 | III | loyalty
+耐久 | III | unbreaking
+
+|指令|
+|:---:|
+`/give @s trident{Enchantments:[{id:mending,lvl:1},{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loyalty,lvl:3},{id:unbreaking,lvl:3}]} 1`
+
+### 喚雷戟
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+魚叉 | V | impaling
+波濤 | III | riptide
+耐久 | III | unbreaking
+
+|指令|
+|:---:|
+`/give @s trident{Enchantments:[{id:mending,lvl:1},{id:impaling,lvl:5},{id:riptide,lvl:3},{id:unbreaking,lvl:3}]} 1`
