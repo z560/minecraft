@@ -4,7 +4,7 @@
  [護腿](Armor.md#護腿Leggings)、
  [靴子](Armor.md#靴子Boots)、
  [盾牌](Armor.md#盾牌Shield)、
- [鞘翅](Armor.md#鞘翅Elytra)、
+ [鞘翅](Armor.md#鞘翅Elytra)  
  [Give Armor Generator](https://www.digminecraft.com/generators/give_armor.php)
  
  # 頭盔Helmet
