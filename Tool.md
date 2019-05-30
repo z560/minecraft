@@ -67,21 +67,11 @@
 
 材質|指令
 :---:|:---:
-鑽石|
-`/give @s diamond_shovel{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 鐵製  
-`/give @s iron_shovel{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 石製  
-`/give @s stone_shovel{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 金製  
-`/give @s golden_shovel{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 木製  
-`/give @s wooden_shovel{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+鑽石|`/give @s diamond_shovel{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+鐵製|`/give @s iron_shovel{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+石頭|`/give @s stone_shovel{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+黃金|`/give @s golden_shovel{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+木頭|`/give @s wooden_shovel{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
 
 # 斧Axe
 ### 幸運斧
@@ -95,21 +85,12 @@
 
 材質|指令
 :---:|:---:
-鑽石|
-`/give @s diamond_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 鐵製  
-`/give @s iron_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 石製
-`/give @s stone_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 金製  
-`/give @s golden_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
-* 木製  
-`/give @s wooden_axe{Enchantments:[{id:mending,lvl:1},
-{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+鑽石|`/give @s diamond_axe{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+鐵製|`/give @s iron_axe{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+石頭|`/give @s stone_axe{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+黃金|`/give @s golden_axe{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+木頭|`/give @s wooden_axe{Enchantments:[{id:mending,lvl:1},{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:unbreaking,lvl:3}]} 1`
+
 ### 絲綢斧
 附魔|等級|英文
 :---:|:---:|:---:
@@ -120,21 +101,11 @@
 
 材質|指令
 :---:|:---:
-鑽石|
-`/give @s diamond_axe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 鐵製  
-`/give @s iron_axe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 石製  
-`/give @s stone_axe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 金製  
-`/give @s golden_axe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
-* 木製  
-`/give @s wooden_axe{Enchantments:[{id:mending,lvl:1},
-{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+鑽石|`/give @s diamond_axe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+鐵製|`/give @s iron_axe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+石頭|`/give @s stone_axe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+黃金|`/give @s golden_axe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
+木頭|`/give @s wooden_axe{Enchantments:[{id:mending,lvl:1},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:silk_touch,lvl:1}]} 1`
 
 # 鋤Hoe
 附魔|等級|英文
@@ -147,10 +118,8 @@
 鑽石|`/give @s diamond_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
 鐵製|`/give @s iron_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
 石頭|`/give @s stone_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
-黃金
-`/give @s golden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
-木頭|  
-`/give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+黃金|`/give @s golden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
+木頭|`/give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3}]} 1`
 
 # 剪刀Shears
 附魔|等級|英文
