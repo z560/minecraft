@@ -1,14 +1,34 @@
 ver1.14
 # 目錄
+### 武器 Weapon  
  [劍](README.md#劍Sword)  
- [幸運鎬](README.md#幸運鎬)  
- [絲綢鎬](README.md#絲綢鎬)  
- [幸運鏟](README.md#幸運鏟)  
- [絲綢鏟](README.md#絲綢鏟)  
- [幸運斧](README.md#幸運斧)  
- [絲綢斧](README.md#絲綢斧)  
+### 工具 Tool  
+ [鎬](README.md#鎬Pickaxe)  
+> [幸運鎬](README.md#幸運鎬)  
+> [絲綢鎬](README.md#絲綢鎬)  
+
+ [鏟](README.md#鏟Pickaxe)  
+> [幸運鏟](README.md#幸運鏟)  
+> [絲綢鏟](README.md#絲綢鏟)  
+
+ [斧](README.md#斧Shovel)  
+> [幸運斧](README.md#幸運斧)  
+> [絲綢斧](README.md#絲綢斧)  
+
  [鋤](README.md#鋤Hoe)  
+### 盔甲 Armor
+ [頭盔](README.md#頭盔Helmet)  
  
+ [胸甲](README.md#胸甲Chestplates)  
+ 
+ [護腿](README.md#護腿Leggings)  
+ 
+ [靴子](README.md#靴子Boots)  
+> [深海靴](README.md#深海靴)  
+> [冰霜靴](README.md#冰霜靴)  
+
+ [釣竿](README.md#釣竿FishingRod)  
+
 # 劍	Sword
 附魔|等級|英文
 :---:|:---:|:---:
@@ -276,4 +296,19 @@ ver1.14
 * 木鋤  
 ```java
 /give @s wooden_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},]} 1
+```
+
+# 頭盔Helmet
+附魔|等級|英文
+:---:|:---:|:---:
+修補 | I | mending
+親水性 | I | aqua_affinity
+保護 | IV | protection
+耐久 | III | unbreaking
+尖刺 | III | thorns
+水中呼吸 | III | respiration
+
+* 鑽石頭盔  
+```java
+
 ```
