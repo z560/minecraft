@@ -6,6 +6,7 @@
  [Give Weapon Generator](https://www.digminecraft.com/generators/give_weapon.php)  
  
 # 劍Sword
+
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
@@ -26,6 +27,7 @@
 
 
 # 弓Bow
+
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
@@ -40,6 +42,7 @@
 
 # 弩Crossbow
 ### 貫穿弩
+
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
@@ -52,6 +55,7 @@
 `/give @s crossbow{Enchantments:[{id:mending,lvl:1},{id:piercing,lvl:4},{id:unbreaking,lvl:3},{id:quick_charge,lvl:3}]} 1`
 
 ### 分裂弩
+
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
@@ -65,6 +69,7 @@
 
 # 三叉戟Trident
 ### 喚雷戟
+
 附魔|等級|英文
 :---:|:---:|:---:
 修補 | I | mending
